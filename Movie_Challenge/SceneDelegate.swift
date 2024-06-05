@@ -14,7 +14,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 //    var coordinator: CoordinatorFlowController?
 //    var appCoordinator: AppCoordinatorFlow?
     
-    var appCoordinator: ViewController?
+    var appCoordinator: SplashScreenViewController?
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
         
@@ -23,7 +23,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         let window = UIWindow(windowScene: windowScene)
    
         //MARK: - Starting - Coordinator boot --- Remove after deploying.
-                       let rootViewController = ViewController()
+                       let rootViewController = SplashScreenViewController()
                        
                        // Configurar root view controller
                        window.rootViewController = rootViewController
