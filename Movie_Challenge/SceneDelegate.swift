@@ -39,7 +39,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 //
 //            window.rootViewController = navigationController
 //            window.makeKeyAndVisible()
-//
+
 //            appCoordinator = AppCoordinatorFlow.init(navigationController)
 //            appCoordinator?.start()
        
