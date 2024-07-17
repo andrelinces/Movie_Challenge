@@ -11,7 +11,6 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     
     var window: UIWindow?
     
-//    var coordinator: CoordinatorFlowController?
 //    var appCoordinator: AppCoordinatorFlow?
     
     var appCoordinator: SplashScreenViewController?
