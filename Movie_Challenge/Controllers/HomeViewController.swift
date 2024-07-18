@@ -17,11 +17,10 @@ class HomeViewController:  UIViewController {
         return label
     }()
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         view.addSubview(homeLabel)
-        homeLabel.center = view.center
+        homeLabel.center = view.center // Center Label
         view.backgroundColor = .systemBackground
     }
     
