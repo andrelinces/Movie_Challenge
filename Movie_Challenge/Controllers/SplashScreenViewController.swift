@@ -23,7 +23,7 @@ class SplashScreenViewController: UIViewController {
         
     }
 
-    override func viewDidLayoutSubviews() {
+    override func viewDidLayoutSubviews() { /// Initializing the animation here avoids the top viewcontroller alert.
         super.viewDidLayoutSubviews()
         
         imageView.center = view.center //centers in the view.
@@ -58,7 +58,7 @@ class SplashScreenViewController: UIViewController {
                 
                 DispatchQueue.main.asyncAfter(deadline: .now()+0.5, execute: {
                     
-                    let viewController = HomeViewController()
+                    let viewController = HomeViewController() /// In the case of mmvvm-r with splashscreen, the lines below were not needed:
                     viewController.modalTransitionStyle = .crossDissolve
                     viewController.modalPresentationStyle = .fullScreen
                     self.present(viewController, animated: true)
