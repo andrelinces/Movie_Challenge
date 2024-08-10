@@ -13,6 +13,7 @@ final class Movie_ChallengeUITests: XCTestCase {
         // Put setup code here. This method is called before the invocation of each test method in the class.
         // Studying and implementing the use of the Coordinator Pattern.
         // Reviewing studies.
+        // Refactor code.
         // In UI tests it is usually best to stop immediately when a failure occurs.
         continueAfterFailure = false
 
