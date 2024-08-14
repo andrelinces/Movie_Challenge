@@ -9,7 +9,7 @@ import UIKit
 
 class HomeViewController:  UIViewController {
     
-    private let homeLabel: UILabel = {
+    private let homeLabel: UILabel = { // Label
        let label = UILabel(frame: CGRect(x: 0, y: 0, width: 300, height: 100))
         label.textAlignment = .center
         label.font = .systemFont(ofSize: 24, weight: .semibold)
