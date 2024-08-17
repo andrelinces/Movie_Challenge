@@ -18,7 +18,7 @@ class SplashScreenViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .link
+        view.backgroundColor = .white
         view.addSubview(imageView)
         
     }
