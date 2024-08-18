@@ -7,7 +7,7 @@
 
 import UIKit
 
-class HomeViewController:  UIViewController {
+class HomeViewController:  UIViewController { // Refactoring the code.
     
     private let homeLabel: UILabel = { // Label
        let label = UILabel(frame: CGRect(x: 0, y: 0, width: 300, height: 100))
