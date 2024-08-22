@@ -23,5 +23,6 @@ class HomeViewController:  UIViewController { // Refactoring the code.
         homeLabel.center = view.center // Center Label
         view.backgroundColor = .systemBackground
     }
-    //Animation for the home screen successful.
+    //Animation for the home screen successfulf.
+    //Testing circle animation with the image's initial animation.
 }
