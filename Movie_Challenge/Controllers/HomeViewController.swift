@@ -23,5 +23,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
         homeLabel.center = view.center // Center Label
         view.backgroundColor = .systemBackground
     }
-    //testing an animation for the home screen.
+    //Animation for the home screen successful.
 }
