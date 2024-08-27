@@ -25,4 +25,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     }
     // Animation for the home screen successfulf.
     // Refactoring the code, restructuring the functions.
+    // Correcting persistence error.
 }
