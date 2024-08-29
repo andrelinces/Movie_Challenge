@@ -28,4 +28,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // Correcting persistence error.
     // Changing the way to combine SwiftUI with UIKit.
     // Fixed persistent error in the SwiftUI and UIKit bridge.
+    // Refactoring the code, restructuring the functions.
 }
