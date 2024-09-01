@@ -30,4 +30,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // Fixed persistent error in the SwiftUI and UIKit bridge.
     // Refactoring the code, restructuring the functions.
     // Created new viewcontrollers and coordinators for tabbar.
+    // Created new animation in swiftui to test on the login screen.
 }
