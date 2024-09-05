@@ -32,4 +32,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // Created new viewcontrollers and coordinators for tabbar.
     // Created new animation in swiftui to test on the login screen.
     // Testing new animation.
+    // Refactoring the code, restructuring the functions.
 }
