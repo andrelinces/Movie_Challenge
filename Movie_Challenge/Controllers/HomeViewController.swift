@@ -33,4 +33,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // Created new animation in swiftui to test on the login screen.
     // Testing new animation.
     // Refactoring the code, restructuring the functions.
+    // Fixed error between SwiftUI and UIKit in the view background.
 }
