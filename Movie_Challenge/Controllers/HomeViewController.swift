@@ -35,4 +35,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // Refactoring the code, restructuring the functions.
     // Fixed error between SwiftUI and UIKit in the view background.
     // Organizing the code and changing some tabbar and background colors.
+    // Refactoring the code, restructuring the functions.
 }
