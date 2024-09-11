@@ -37,4 +37,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // Organizing the code and changing some tabbar and background colors.
     // Refactoring the code, restructuring the functions.
     // Fixed the tabbar visualization and animation and the screen background color.
+    // Fixed erros and refactoring the code.
 }
