@@ -41,4 +41,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // Refactoring the code.
     // Checking the implementation of a new feature.
     // Studying OOP and POO.
+    // Review of the new feature added to the apple watch.
 }
