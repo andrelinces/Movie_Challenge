@@ -40,4 +40,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // Fixed erros and refactoring the code.
     // Refactoring the code.
     // Checking the implementation of a new feature.
+    // Studying OOP and POO.
 }
