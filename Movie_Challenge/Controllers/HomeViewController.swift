@@ -50,5 +50,6 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // It works! Removed the WCsession from scene delegate. 
     // changing the apple watch screen layout.
     // Refactoring the code.
+    // Changing the Apple Watch screen layout in the app.
     
 }
