@@ -51,5 +51,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // changing the apple watch screen layout.
     // Refactoring the code.
     // Changing the Apple Watch screen layout in the app.
-    
+    // Refactoring the code.
 }
