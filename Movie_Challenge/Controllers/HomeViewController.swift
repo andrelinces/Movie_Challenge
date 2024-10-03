@@ -53,4 +53,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // Changing the Apple Watch screen layout in the app.
     // Refactoring the code.
     // Inserting a custom tableview inside the scrollview to receive messages from the apple watch.
+    // New features and fixes being tested.
 }
