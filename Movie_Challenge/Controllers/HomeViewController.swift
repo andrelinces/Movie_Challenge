@@ -55,4 +55,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // Inserting a custom tableview inside the scrollview to receive messages from the apple watch.
     // New features and fixes being tested.
     // Refactoring functions and code.
+    // New features and improvements have been added to the video player.
 }
