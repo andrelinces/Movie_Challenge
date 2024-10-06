@@ -56,4 +56,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // New features and fixes being tested.
     // Refactoring functions and code.
     // New features and improvements have been added to the video player.
+    // Adding a video preview image.
 }
