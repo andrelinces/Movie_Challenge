@@ -58,4 +58,5 @@ class HomeViewController:  UIViewController { // Refactoring the code.
     // New features and improvements have been added to the video player.
     // Adding a video preview image.
     // Video preview done.
+    // Starting the Server Driven UI course.
 }
